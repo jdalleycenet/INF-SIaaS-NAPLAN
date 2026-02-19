@@ -25,5 +25,4 @@
 .syd0204adsprodarena.blob.core.windows.net
 .mel0204adsdrts.blob.core.windows.net
 .mel0204adsnatuatarena.blob.core.windows.net
-.syd0204adsprodarena.blob.core.windows.net
 .mel0204adse2eprodarena.blob.core.windows.net
